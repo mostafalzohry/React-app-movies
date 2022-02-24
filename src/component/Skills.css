@@ -1,0 +1,22 @@
+.rowskill2{
+    text-align: center;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.h2skills2{
+    margin-top: 2rem;
+}
+.hrskill2{
+    margin: auto;
+    max-width: 35%;
+    text-align: center;
+}
+.hrskill2 hr2 {
+height: 2px;
+color: white;
+}
+.skill-marg2 {
+    margin-top: 2rem ;
+    margin-bottom: 2rem;
+}

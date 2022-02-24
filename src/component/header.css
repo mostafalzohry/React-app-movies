@@ -1,0 +1,15 @@
+.cont-fl2 {
+    background-image: url("../img/nothing.jpeg");
+    background-size: cover;
+    height: 60vh;
+    background-position: center;
+      color: white;
+    }
+    .colm52{
+        height: 11rem;
+        margin-top: 5rem;
+    }
+    .headp2{
+        font-size: 1.8rem;
+        margin-top: 2rem;
+    }

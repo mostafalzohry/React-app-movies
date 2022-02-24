@@ -1,0 +1,16 @@
+.port-cont2{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.center2{
+    width: fit-content;
+    margin-bottom: 4rem;
+    text-align: center;
+}
+.row.cards-cont2{
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80%;
+}
